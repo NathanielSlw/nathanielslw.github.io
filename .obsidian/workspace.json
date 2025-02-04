@@ -128,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Mots-clés"
@@ -166,7 +168,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "57abe85e6fcb9bc5",
+  "active": "57edb3e0b2d97ec5",
   "lastOpenFiles": [
     "_posts/2025-01-26-hackday-website verificator.md",
     "_posts/2025-02-04-soccer.md",
