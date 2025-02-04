@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-26-hackday-website verificator.md",
+                "file": "_posts/2025-02-04-soccer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-26-hackday-website verificator"
+              "title": "2025-02-04-soccer"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -139,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2025-01-26-hackday-website verificator.md"
+                "file": "_posts/2025-02-04-soccer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 2025-01-26-hackday-website verificator"
+              "title": "Plan de 2025-02-04-soccer"
             }
           }
         ],
@@ -164,23 +168,24 @@
   },
   "active": "57abe85e6fcb9bc5",
   "lastOpenFiles": [
-    "_posts/2025-01-26-hackday-Just dig.md",
     "_posts/2025-01-26-hackday-website verificator.md",
+    "_posts/2025-02-04-soccer.md",
+    "assets/img_0204_0618_plbnv.png",
+    "assets/img_0204_0619_fcxxl.png",
+    "assets/img_0204_0620_xjmby.png",
+    "assets/img_0204_0621_nrwae.png",
+    "assets/Pasted image 20250204150249.png",
+    "assets/Pasted image 20250204150422.png",
+    "assets/img_0204_0624_iiwqa.png",
+    "assets/img_0204_0626_pgmaa.png",
+    "assets/Pasted image 20250204150931.png",
+    "assets/img_0204_0629_xxgry.png",
+    "_posts/2025-01-26-hackday-Just dig.md",
     "_posts/2025-01-26-hackday-internal-blog.md",
     "_posts/2025-01-26-hackday-the analytical engine leak.md",
     "_posts/2025-01-26-hackday-believe-you-cant-fly.md",
     "_tabs/about.md",
-    "_site/assets/img/favicons/mstile-150x150.png",
-    "_site/assets/img/favicons/favicon-16x16.png",
-    "_site/assets/img/favicons/android-chrome-192x192.png",
-    "_site/assets/img/favicons/android-chrome-512x512.png",
-    "_site/assets/img/favicons/apple-touch-icon.png",
-    "_site/assets/img/favicons/favicon-32x32.png",
-    "_site/assets/img/favicons/web-app-manifest-512x512.png",
-    "_site/assets/img/favicons/web-app-manifest-192x192.png",
-    "_site/assets/img/favicons/favicon.svg",
     "_site/assets/img/favicons/favicon.ico",
-    "_site/assets/img/favicons/favicon-96x96.png",
     "_site/categories/hackday-2025/index.html",
     "_site/categories/hackday-2025",
     "_site/categories/reverse/index.html",
